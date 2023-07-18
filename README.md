@@ -28,25 +28,22 @@ Huzurlu ve uzak bir köyde, yaklaşan bir tehlike köyün varlığını tehdit e
 
 # Sprint1
 
-
-
 [Sprint 1 Daily Scrum Chats](https://drive.google.com/drive/folders/1tWZQM37IaUgwzOINF8YYpD6xFH2FCLlz?usp=sharing)
 
-<img width="847" alt="Screenshot 2023-07-02 at 10 39 11 PM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/be90842e-7041-40c8-8e14-b965ceb04f21">
+<img width="847" alt="Screenshot 2023-07-02 at 10 39 11 PM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/331567de-07dc-4dfe-98f8-af66d8ecb147">
 
-<img width="627" alt="Screenshot 2023-07-02 at 10 39 45 PM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/13235d6f-3490-4f14-a004-4cc0734d9eba">
+<img width="627" alt="Screenshot 2023-07-02 at 10 39 45 PM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/a3352e6d-509b-4e66-940a-c446af6f7428">
 
 
 # Sprint2
 
-<img width="777" alt="Screenshot 2023-07-02 at 10 32 31 PM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/24206513-ea3d-4722-a4fd-6f5153d4ecc9">
+<img width="777" alt="Screenshot 2023-07-02 at 10 32 31 PM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/506dd39a-3e85-44a3-90fe-a9b2d6a712e6">
 
-https://github.com/U-156/ihanetin_golgesi/assets/136379557/d5a76afb-963a-49bc-9104-cc2bd9fdb99c
+https://github.com/U-156/ihanetin_golgesi/assets/136379557/c49d3c6c-0c6e-4034-858a-885a6d8434d5
 
-<img width="790" alt="Screenshot 2023-07-03 at 10 40 55 AM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/6b78cfe7-83cf-43d6-a708-7812762f6004">
+<img width="790" alt="Screenshot 2023-07-03 at 10 40 55 AM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/bec888c3-238a-4c69-b1f6-1783aa7a2a00">
 
-<img width="524" alt="Screenshot 2023-07-03 at 10 41 15 AM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/4230ca28-2f02-4b97-8bd2-334d48da180d">
-
+<img width="524" alt="Screenshot 2023-07-03 at 10 41 15 AM" src="https://github.com/U-156/ihanetin_golgesi/assets/136379557/d6ae9b71-b869-421e-a7e3-89cd3276b354">
 
 [Sprint 2 Daily Scrum Chats](https://drive.google.com/drive/folders/1tWZQM37IaUgwzOINF8YYpD6xFH2FCLlz?usp=sharing)
 
